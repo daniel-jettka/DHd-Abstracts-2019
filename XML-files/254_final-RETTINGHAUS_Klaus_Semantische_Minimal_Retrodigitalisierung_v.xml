@@ -79,7 +79,7 @@
                     <ref target="https://github.com/TEI-Correspondence-SIG/CMIF">CMIF</ref> 
                     (<hi rend="italic">Correspondence Metadata Interchange-Format</hi>) bereit, könnten sie auch im Kontext von vielen tausend weiteren Briefen im Webservice 
                     <ref target="https://correspSearch.net/">
-                        <hi rend="italic">correspSearch.net</hi>
+                        <hi rend="italic"><rs key="CorrespSearch" ana="#URL">correspSearch</rs>.net</hi>
                     </ref> sichtbar werden, der von der Berlin-Brandenburgischen Akademie der Wissenschaften bereitgestellt wird.
                 </p>
                 <p>Der große Vorteil hierbei ist, dass auch jüngste Publikationen erschlossen werden können, da auf den notwendigen Metadaten kein Urheberrechtsschutz liegt. Nicht selten enthalten solche Editionen sogar ein tabellarische Korrespondenzregister, das relativ einfach gescannt und aufbereitet werden kann. Generell scheint es allerdings nicht ratsam die Brief-Metadaten direkt in XML zu kodieren, da ein solches Vorgehen relativ fehleranfällig und zeitaufwändig ist. Aufgrund des hohen Grades an Strukturiertheit ist es sinnvoller sie gleichsam in Tabellen zu erfassen; dies erhöht die Übersichtlichkeit und reduziert die Fehlerquote. Wünschenswert ist natürlich eine Anreicherung mit Normdaten. Diese kann manuell oder auch halbautomatisch mit entsprechenden Tools erfolgen. Die kompilierten Daten können dann mit dem Programm 
