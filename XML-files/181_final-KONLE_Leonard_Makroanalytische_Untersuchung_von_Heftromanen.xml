@@ -143,7 +143,7 @@
                 </p>
                 <p>
                     <hi rend="color(#000000)bold">Themen und Topoi. </hi>
-                    <hi rend="color(#000000)">Wir verwenden zwei Verfahren, um Themen, Settings, Gegenstände, Figuren, rekurrente Formulierungen usw. der Gattungen zu identifizieren: Topic Modeling und Zeta. Ein Model (100 Topics) (Blei, Jordan, Ng 2002) wird über das gesamte Korpus mit Mallet 2.0.8 (McCallum 2002) erstellt. Zeta wird verwendet, um zu ermitteln, welche Worte in einer Gruppe von Texten im Vergleich mit einer zweiten bevorzugt werden (Burrows 2007, Craig, Kinney 2009). Für unsere Untersuchung wurden jeweils für jede Gattung 200 Texte dieser Gattung und 200 Texte aus allen anderen Gattungen zufällig gezogen und Eder’s Zeta mit Stylo berechnet (Eder, Kestemont, Rybicki 2016); Parameter nach Empfehlungen in (Schöch et al. 2018).</hi>
+                    <hi rend="color(#000000)">Wir verwenden zwei Verfahren, um Themen, Settings, Gegenstände, Figuren, rekurrente Formulierungen usw. der Gattungen zu identifizieren: Topic Modeling und Zeta. Ein Model (100 Topics) (Blei, Jordan, Ng 2002) wird über das gesamte Korpus mit Mallet 2.0.8 (McCallum 2002) erstellt. Zeta wird verwendet, um zu ermitteln, welche Worte in einer Gruppe von Texten im Vergleich mit einer zweiten bevorzugt werden (Burrows 2007, Craig, Kinney 2009). Für unsere Untersuchung wurden jeweils für jede Gattung 200 Texte dieser Gattung und 200 Texte aus allen anderen Gattungen zufällig gezogen und Eder’s Zeta mit <rs key="Stylo" ana="#Bib.Ref">Stylo</rs> berechnet (Eder, Kestemont, Rybicki 2016); Parameter nach Empfehlungen in (Schöch et al. 2018).</hi>
                 </p>
                 <p>
                     <hi rend="color(#000000)"> </hi>
