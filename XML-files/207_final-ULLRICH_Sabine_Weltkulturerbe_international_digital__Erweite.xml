@@ -135,16 +135,16 @@
                         <hi rend="bold">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Seebauer, Patrick / Strutynska, Olga (2012):</hi>
                         <hi rend="italic">New (re)search possibilities for Wittgenstein‘s Nachlass</hi>.
                         35th International Wittgenstein Symposium 2012, Kirchberg am Wechsel, Contributions, pp. 102-105. Kirchberg am Wechsel: ALWS.</bibl>
-                    <bibl>
+                    <bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">
                         <hi rend="bold">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Øyvind (2014):</hi> 
                         <hi rend="italic">Wittgenstein‘s Nachlass: WiTTFind and Wittgenstein advanced search tools (WAST)</hi>.
                         Digital Access to Textual Cultural Heritage 2014 (DaTeCH 2014), pp. 91-96. Madrid.
-                    </bibl>
-                    <bibl>
+                    </rs></bibl>
+                    <bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">
                         <hi rend="bold">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Bruder, Daniel / Arends, Ina / Baiter, Johannes (2015):</hi> 
                         <hi rend="italic">Wittgensteins Nachlass: Erkenntnisse und Weiterentwicklung der FinderApp WiTTFind</hi>.
                         2. Tagung Digital Humanities im deutschsprachigen Raum 23.-27.2 (Graz).
-                    </bibl>
+                    </rs></bibl>
                     <bibl>
                         <hi rend="bold">Hamp, Birgit / Helmut Feldweg (1997):</hi>
                         <hi rend="italic">GermaNet - a Lexical-Semantic Net for German</hi>.

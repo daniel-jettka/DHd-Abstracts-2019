@@ -180,10 +180,10 @@
                         <ref target="http://cistern.cis.lmu.de/ocrocis/tutorial.pdfm">http://cistern.cis.lmu.de/ocrocis/tutorial.pdfm</ref> [zuletzt besucht am 14.10.2018].
                     </bibl>
                     <bibl style="text-align:left; ">statista, Marktanteile der führenden Betriebssysteme in Deutschland von Januar 2009 bis Juli 2018, URL: https://de.statista.com/statistik/daten/studie/158102/umfrage/marktanteile-von-betriebssystemen-in-deutschland-seit-2009/, [zuletzt besucht am 10.10.2018].</bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; "><rs key="OCRopus" ana="#Bib.Ref #Agent #URL">
                         <hi rend="bold">Vanderkam, Dan (2015):</hi> 
                         <hi rend="italic">Extracting text from an image using Ocropus</hi>, 
-                        URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, [zuletzt besucht am 10.10.2018].</bibl>
+                        URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, [zuletzt besucht am 10.10.2018].</rs></bibl>
                     <bibl style="text-align:left; ">
                         <hi rend="bold">VD (2018):</hi> 
                         <hi rend="italic">Digitale Sammlungen des 16. bis 19. Jahrhunderts</hi>, 

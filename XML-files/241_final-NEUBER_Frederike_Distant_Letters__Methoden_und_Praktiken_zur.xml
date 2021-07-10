@@ -235,12 +235,12 @@
                         <hi rend="italic">Delta’: a Measure of Stylistic Difference and a Guide to Likely Authorship</hi>, 
                         in: Literary and Linguistic Computing 17/3, S. 267–287.
                     </bibl>
-                    <bibl>
+                    <bibl><rs key="CorrespSearch" ana="#Bib.Ref #Agent #URL">
                         <hi rend="bold">Dumont, Stefan (2016):</hi> 
                         <hi rend="italic">correspSearch – Connecting Scholarly Editions of Letters</hi>, 
                         in: Journal of the Text Encoding Initiative [Online], Issue 10; 
                         <ptr target="http://journals.openedition.org/jtei/1742"/> [letzter Zugriff 7.Januar 2019].
-                    </bibl>
+                    </rs></bibl>
                     <bibl>
                         <hi rend="bold">Eder, Maciej / Rybicki, Jan / Kestemont, Mike (2016):</hi> 
                         <hi rend="italic">Stylometry with R: A Package for Computational Text Analysis</hi>, 
