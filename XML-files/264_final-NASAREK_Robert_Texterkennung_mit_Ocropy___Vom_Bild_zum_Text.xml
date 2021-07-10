@@ -74,7 +74,7 @@
         <body>
             <div type="div1" rend="DH-Heading1">
                 <head>Das OCR-Programm ocropy</head>
-                <p style="text-align:left; ">Die optische Zeichenerkennung (engl. Optical Character Recognition – OCR) von historischen Texten weißt oftmals niedrige Erkennungsraten auf. Mit einem gekonnten Preprozessing und ocropy (auch ocropus), einem modular aufgebauten Kommandozeilenprogramm auf Basis eines neuronalen long short-term memory Netzes, ist es möglich, deutlich bessere Ergebnisse zu erzielen. (Springmann 2015, S. 3; Vanderkam 2015) Ocropy ist in Python geschrieben und enthält u. a. Module zur Binarisierung (Erzeugung einer Rastergrafik), zur Segmentierung (Dokumentaufspaltung in Zeilen), zur Korrektur fehlerhafter Erkennungstexte, zum Training neuer Zeichen und natürlich zur Erkennung von Dokumenten (siehe Abbildung 1). Ein bedeutender Vorteil dabei ist, dass jedes Modul eine Reihe von nachvollziehbaren Einstellungsmöglichkeiten hat, um auf die individuellen Herausforderungen jedes Dokumentes einzugehen. Zusätzlich besteht die Möglichkeit ocropy auf die Erkennung einer bestimmten Schriftart, bzw. eines Zeichensatzes zu trainieren.</p>
+                <p style="text-align:left; ">Die optische Zeichenerkennung (engl. Optical Character Recognition – OCR) von historischen Texten weißt oftmals niedrige Erkennungsraten auf. Mit einem gekonnten Preprozessing und ocropy (auch <rs key="OCRopus" ana="#Bib.Ref">ocropus</rs>), einem modular aufgebauten Kommandozeilenprogramm auf Basis eines neuronalen long short-term memory Netzes, ist es möglich, deutlich bessere Ergebnisse zu erzielen. (Springmann 2015, S. 3; Vanderkam 2015) Ocropy ist in Python geschrieben und enthält u. a. Module zur Binarisierung (Erzeugung einer Rastergrafik), zur Segmentierung (Dokumentaufspaltung in Zeilen), zur Korrektur fehlerhafter Erkennungstexte, zum Training neuer Zeichen und natürlich zur Erkennung von Dokumenten (siehe Abbildung 1). Ein bedeutender Vorteil dabei ist, dass jedes Modul eine Reihe von nachvollziehbaren Einstellungsmöglichkeiten hat, um auf die individuellen Herausforderungen jedes Dokumentes einzugehen. Zusätzlich besteht die Möglichkeit ocropy auf die Erkennung einer bestimmten Schriftart, bzw. eines Zeichensatzes zu trainieren.</p>
                 <figure>
                     <graphic n="1001" width="9.992422222222222cm" height="12.2cm" url="264_final-4b6e208c0125ad6b7e1118e2bbf7cd93.png" rend="inline"/>
                     <head>Abbildung 1. Überblick zum Prozessablauf der Texterkennung mit den grundlegenden Software-Modulen</head>
@@ -110,7 +110,7 @@
             </div>
             <div type="div1" rend="DH-Heading1">
                 <head>Preprocessing mit ScanTailor</head>
-                <p style="text-align:left; ">Eine Texterkennung ist nur so gut wie das Preprocessing des Digitalisates. Bilder, Initiale oder Flecken im Bild stören die Texterkennung und müssen entfernt werden. Darüber hinaus benötigt ocropy binarisierte (schwarz/weiß gerasterte) oder normalisierte Graustufenbilder zur Verarbeitung. Obwohl ocropy mit dem Modul ocropus-nlbin eine eigene Lösung zur Binarisierung von Bilddateien anbietet, hilft dies nicht in Bezug auf Nicht-Text-Elemente, wie Bilder oder schräge Spaltenlinien. Bearbeitungssoftware wie Gimp beinhaltet zwar alle benötigten Funktionen, ist jedoch in Bezug auf die serielle Verwendung bei Textdigitalisaten ineffizent. Im Workshop wird die Software 
+                <p style="text-align:left; ">Eine Texterkennung ist nur so gut wie das Preprocessing des Digitalisates. Bilder, Initiale oder Flecken im Bild stören die Texterkennung und müssen entfernt werden. Darüber hinaus benötigt ocropy binarisierte (schwarz/weiß gerasterte) oder normalisierte Graustufenbilder zur Verarbeitung. Obwohl ocropy mit dem Modul <rs key="OCRopus">ocropus</rs>-nlbin eine eigene Lösung zur Binarisierung von Bilddateien anbietet, hilft dies nicht in Bezug auf Nicht-Text-Elemente, wie Bilder oder schräge Spaltenlinien. Bearbeitungssoftware wie Gimp beinhaltet zwar alle benötigten Funktionen, ist jedoch in Bezug auf die serielle Verwendung bei Textdigitalisaten ineffizent. Im Workshop wird die Software 
                     <ref target="http://scantailor.org/">ScanTailor</ref> als passgenaues Preprocessing-Tool zur Vorbereitung der Digitalisate favorisiert. ScanTailor ist wie dafür gemacht gescannte Texte in eine einheitliche Form zu bringen und beinhaltet (zum Teil vollständig automatisierte) Funktionen wie 
                 </p>
                 <list type="unordered">
@@ -135,7 +135,7 @@
                 <figure>
                     <graphic n="1002" width="16.002cm" height="10.341680555555556cm" url="264_final-39449017b82e85831a89c8f063ec7e8c.png" rend="inline"/>
 					<head>
-						<lb/>Abbildung 2. Trainingsprozess von ocropus-rtrain mit Ground Truth von Zedlers Universallexikon. training = Ground Truth anhand derer das Modul trainiert wurde, testing = unbekanne Ground Truth zum Test der Performance.
+					    <lb/>Abbildung 2. Trainingsprozess von <rs key="OCRopus">ocropus</rs>-rtrain mit Ground Truth von Zedlers Universallexikon. training = Ground Truth anhand derer das Modul trainiert wurde, testing = unbekanne Ground Truth zum Test der Performance.
 					</head>
                 </figure>
             </div>
@@ -180,10 +180,10 @@
                         <ref target="http://cistern.cis.lmu.de/ocrocis/tutorial.pdfm">http://cistern.cis.lmu.de/ocrocis/tutorial.pdfm</ref> [zuletzt besucht am 14.10.2018].
                     </bibl>
                     <bibl style="text-align:left; ">statista, Marktanteile der führenden Betriebssysteme in Deutschland von Januar 2009 bis Juli 2018, URL: https://de.statista.com/statistik/daten/studie/158102/umfrage/marktanteile-von-betriebssystemen-in-deutschland-seit-2009/, [zuletzt besucht am 10.10.2018].</bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; "><rs key="OCRopus" ana="#Bib.Ref #Agent #URL">
                         <hi rend="bold">Vanderkam, Dan (2015):</hi> 
                         <hi rend="italic">Extracting text from an image using Ocropus</hi>, 
-                        URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, [zuletzt besucht am 10.10.2018].</bibl>
+                        URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, [zuletzt besucht am 10.10.2018].</rs></bibl>
                     <bibl style="text-align:left; ">
                         <hi rend="bold">VD (2018):</hi> 
                         <hi rend="italic">Digitale Sammlungen des 16. bis 19. Jahrhunderts</hi>, 

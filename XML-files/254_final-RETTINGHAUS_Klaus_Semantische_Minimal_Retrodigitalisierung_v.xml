@@ -127,12 +127,12 @@
                         <hi rend="bold">Wolzogen, Hanna Delf von / Falk, Rainer:</hi> 
                         <hi rend="italic">Fontanes Briefe ediert</hi>, Würzburg: Königshausen &amp; Neumann 278–287.
                     </bibl>
-                    <bibl>
+                    <bibl><rs key="CorrespSearch" ana="#Bib.Ref #Agent #URL">
                         <hi rend="bold">Dumont, Stefan (2016):</hi> 
                         <hi rend="italic">correspSearch – Connecting Scholarly Editions of Letters</hi>, in: 
                         Journal of the Text Encoding Initiative 10, 
                         <ptr target="https://journals.openedition.org/jtei/1511"/> [letzter Zugriff 10. Oktober 2018].
-                    </bibl>
+                    </rs></bibl>
                     <bibl>
                         <hi rend="bold">Rettinghaus, Klaus (2018):</hi> 
                         <hi rend="italic">saw-leipzig/csv2cmi </hi>(Version v1.6.2), Zenodo, doi: 

@@ -132,7 +132,7 @@
                     <head>Analyse linguistischer Merkmale</head>
                     <p>
                         <anchor xml:id="id_docs-internal-guid-7b2bf2a1-7fff-eab6-2c99-c5109ff961e0"/>
-                        <hi rend="color(#000000)">Im zweiten Teil wendet sich die Untersuchung den Volltextdaten zu. In den Blick genommen werden dabei linguistische Merkmale auf Token-Ebene (z.B. Lemma und Wortart), die einfachen oder komplexen Abfragen (z.B. nach typischen Adjektiv-Anbindungen bestimmter Substantive, Häufungen einer bestimmten Wortart, festen Wendungen, Kollokationen) an den Text zugrunde gelegt werden können und so u.a. Aufschluss über inhaltliche und stilistische Gegebenheiten ermöglichen. Im Workshop werden Werkzeuge gezeigt und benutzt, die zum einen die automatische linguistische Analyse von Texten, z.B. deren Lemmatisierung und POS-Tagging, erlauben und zum anderen Möglichkeiten der Auswertung annotierter linguistischer Merkmale bieten, z.B. mittels leistungsstarker Suchanfragesprachen oder Möglichkeiten der Visualisierung. Genauer in den Blick genommen und z.T. benutzt werden TXM, Corpus Workbench, DTA und WebLicht.</hi><hi rend="superscript">4</hi>
+                        <hi rend="color(#000000)">Im zweiten Teil wendet sich die Untersuchung den Volltextdaten zu. In den Blick genommen werden dabei linguistische Merkmale auf Token-Ebene (z.B. Lemma und Wortart), die einfachen oder komplexen Abfragen (z.B. nach typischen Adjektiv-Anbindungen bestimmter Substantive, Häufungen einer bestimmten Wortart, festen Wendungen, Kollokationen) an den Text zugrunde gelegt werden können und so u.a. Aufschluss über inhaltliche und stilistische Gegebenheiten ermöglichen. Im Workshop werden Werkzeuge gezeigt und benutzt, die zum einen die automatische linguistische Analyse von Texten, z.B. deren Lemmatisierung und POS-Tagging, erlauben und zum anderen Möglichkeiten der Auswertung annotierter linguistischer Merkmale bieten, z.B. mittels leistungsstarker Suchanfragesprachen oder Möglichkeiten der Visualisierung. Genauer in den Blick genommen und z.T. benutzt werden TXM, Corpus Workbench, DTA und <rs key="WebLicht" ana="#URL">WebLicht</rs>.</hi><hi rend="superscript">4</hi>
                     </p>
                 </div>
                 <div type="div2" rend="DH-Heading2">
@@ -235,12 +235,12 @@
                         <hi rend="italic">Delta’: a Measure of Stylistic Difference and a Guide to Likely Authorship</hi>, 
                         in: Literary and Linguistic Computing 17/3, S. 267–287.
                     </bibl>
-                    <bibl>
+                    <bibl><rs key="CorrespSearch" ana="#Bib.Ref #Agent #URL">
                         <hi rend="bold">Dumont, Stefan (2016):</hi> 
                         <hi rend="italic">correspSearch – Connecting Scholarly Editions of Letters</hi>, 
                         in: Journal of the Text Encoding Initiative [Online], Issue 10; 
                         <ptr target="http://journals.openedition.org/jtei/1742"/> [letzter Zugriff 7.Januar 2019].
-                    </bibl>
+                    </rs></bibl>
                     <bibl>
                         <hi rend="bold">Eder, Maciej / Rybicki, Jan / Kestemont, Mike (2016):</hi> 
                         <hi rend="italic">Stylometry with R: A Package for Computational Text Analysis</hi>, 
