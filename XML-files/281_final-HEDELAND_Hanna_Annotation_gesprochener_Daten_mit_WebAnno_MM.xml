@@ -80,7 +80,7 @@
                 </keywords>
                 <keywords scheme="ConfTool" n="keywords">
                     <term>WebAnno</term>
-                    <term>EXMARaLDA</term>
+                    <term><rs key="EXMARaLDA">EXMARaLDA</rs></term>
                     <term>ISO/TEI</term>
                 </keywords>
                 <keywords scheme="ConfTool" n="topics">
@@ -100,7 +100,7 @@
                 <head>Einleitung</head>
                 <p style="text-align:left; ">Wir präsentieren 
                 WebAnno-MM<hi rend="superscript">1</hi>, eine Erweiterung des populären web-basierten Annotationstools 
-                WebAnno<hi rend="superscript">2</hi> (Yimam et al., 2013; Eckart de Castilho et al., 2014), welches die Annotation transkribierter Daten ermöglicht und dabei parallel synchronisierte Ansichten auf die Daten zur Verfügung stellt. Die Erweiterung wurde im Rahmen eines Projekts zur Erarbeitung und Erprobung innovativer Lehrmethoden entwickelt (vgl. Remus et al, 2018), um Annotation von Videodaten als Unterstützung für die Analyse und Reflexion authentischer Diskursbeispiele einsetzen zu können. Eine entscheidende Rolle spielen dabei das kollaborative Annotieren und die systematische Überprüfung der Übereinstimmung – einerseits zwischen Studierenden, als Diskussionsgrundlage im Seminar, und anderseits durch einen Studierenden zu verschiedenen Zeitpunkten, um so Einblicke in die Aneignung neuer Konzepte zu bekommen. Die Auswertung von Inter- und Intra-Annotator-Agreement wird durch die elaborierte Nutzerverwaltung und das bereits existierende Kurationsmodul von WebAnno ermöglicht. Ein weiterer Vorteil von WebAnno in Hinblick auf die Diskursannotation ist der bessere Überblick über größere Abschnitte des Diskurses verglichen mit gängigen Werkzeugen, die in erster Linie für die Transkription und Annotation auf Äußerungsebene entwickelt worden sind, wie z.B. der EXMARaLDA Partitur-Editor (Schmidt und Wörner, 2014) oder ELAN (Sloetjes, 2014). Auch hinsichtlich der Struktur der Annotationen bietet WebAnno große Flexibilität, da neben einfacher Spannenannotation auch relationale und feature-basierte Annotationen möglich sind. Ein wichtiger Aspekt für den Einsatz in der Lehre ist zudem die einfache Handhabung einer web-basierten Plattform.
+                WebAnno<hi rend="superscript">2</hi> (Yimam et al., 2013; Eckart de Castilho et al., 2014), welches die Annotation transkribierter Daten ermöglicht und dabei parallel synchronisierte Ansichten auf die Daten zur Verfügung stellt. Die Erweiterung wurde im Rahmen eines Projekts zur Erarbeitung und Erprobung innovativer Lehrmethoden entwickelt (vgl. Remus et al, 2018), um Annotation von Videodaten als Unterstützung für die Analyse und Reflexion authentischer Diskursbeispiele einsetzen zu können. Eine entscheidende Rolle spielen dabei das kollaborative Annotieren und die systematische Überprüfung der Übereinstimmung – einerseits zwischen Studierenden, als Diskussionsgrundlage im Seminar, und anderseits durch einen Studierenden zu verschiedenen Zeitpunkten, um so Einblicke in die Aneignung neuer Konzepte zu bekommen. Die Auswertung von Inter- und Intra-Annotator-Agreement wird durch die elaborierte Nutzerverwaltung und das bereits existierende Kurationsmodul von WebAnno ermöglicht. Ein weiterer Vorteil von WebAnno in Hinblick auf die Diskursannotation ist der bessere Überblick über größere Abschnitte des Diskurses verglichen mit gängigen Werkzeugen, die in erster Linie für die Transkription und Annotation auf Äußerungsebene entwickelt worden sind, wie z.B. der <rs key="EXMARaLDA" ana="#Bib.Ref #Agent">EXMARaLDA Partitur-Editor (Schmidt und Wörner, 2014)</rs> oder ELAN (Sloetjes, 2014). Auch hinsichtlich der Struktur der Annotationen bietet WebAnno große Flexibilität, da neben einfacher Spannenannotation auch relationale und feature-basierte Annotationen möglich sind. Ein wichtiger Aspekt für den Einsatz in der Lehre ist zudem die einfache Handhabung einer web-basierten Plattform.
                 </p>
             </div>
             <div type="div1" rend="DH-Heading1">
@@ -165,7 +165,7 @@
                     </bibl>
                     <bibl style="text-align:left; ">
                         <hi rend="bold">Remus, Steffen / Hedeland, Hanna / Ferger, Anne / Bührig, Kristin / Biemann, Chris (2018):</hi> 
-                        <hi rend="italic">WebAnno meets EXMARaLDA</hi>, 
+                        <hi rend="italic">WebAnno meets <rs key="EXMARaLDA">EXMARaLDA</rs></hi>, 
                         in: Selected papers from the CLARIN Annual Conference 2018, Pisa, 8–10 October 2018. Linköping: University Electronic Press.
                     </bibl>
                     <bibl style="text-align:left; ">
