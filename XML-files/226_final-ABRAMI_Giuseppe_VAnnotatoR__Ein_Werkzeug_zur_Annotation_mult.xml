@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="full">
-                    <title type="main">VAnnotatoR: Ein Werkzeug zur Annotation multimodaler Netzwerke in dreidimensionalen virtuellen Umgebungen</title>
+                    <title type="main"><rs key="VAnnotatoR">VAnnotatoR</rs>: Ein Werkzeug zur Annotation multimodaler Netzwerke in dreidimensionalen virtuellen Umgebungen</title>
                     <title type="sub"/>
                 </title>
                 <author>
@@ -90,28 +90,28 @@
                 <head>Abstract</head>
                 <p>Die Verarbeitung, Erzeugung und Visualisierung von multimodalen Netzwerken, in denen etwa symbolische und ikonographische Inhalte miteinander vernetzt werden, um sie multimodal rezipierbar zu machen, bilden neuartige Herausforderungen für die digitalen Geisteswissenschaften, da sie weit über textbasierte Medien hinausreichen. Digitalisate von Schrifttexten, Bildern und Illustrationen können in diesem Zusammenhang als Beispiele für knotenbildende Informationsobjekte ebenso genannt werden wie dreidimensionale Objektrepräsentationen. Die Anordnung dieser Objekte zu 
                     <hi rend="italic">semiotischen Netzwerken</hi> hat den Zweck, deren Zusammenhangsstruktur zu visualisieren und rezipierbar zu machen. Der Begriff des Netzwerks erlaubt es dabei, Mikrostrukturen auf der Ebene von Knotenpaaren oder -triaden ebenso zu unterscheiden, wie Mesostrukturen von so genannten Netzwerkmotiven oder gar Makrostrukturen, welche die Gesamtorganisation des jeweiligen Informationsraums thematisieren (etwa im Sinne einer Zentrums-Peripherie-Struktur). Multimodale Netzwerke waren bereits Gegenstand einer Reihe von Projekten (siehe z.B. Li et al. 2007; Kane, Alavi 2008; Nasser, Gleich 2017). Allerdings befindet sich darunter kein Projekt, das eine generische Plattform zur Visualisierung und Annotation solcher Netzwerke im Rahmen virtueller Umgebungen zur Verfügung stellt. Um diese Lücke zu schließen, haben wir 
-                    <hi rend="bold">VAnnotatoR</hi> (Spiekermann, Abrami, Mehler 2018)
+                    <rs key="VAnnotatoR" ana="#Bib.Ref #Agent"><hi rend="bold">VAnnotatoR</hi> (Spiekermann, Abrami, Mehler 2018)</rs>
                     <hi rend="bold"> </hi>entwickelt. 
-                    <hi rend="bold">VAnnotatoR</hi> ist ein Framework zur Erstellung und Visualisierung multimodaler Netzwerke in virtuellen Umgebungen. Das System erlaubt die Bearbeitung und Visualisierung dieser Netzwerke als 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> ist ein Framework zur Erstellung und Visualisierung multimodaler Netzwerke in virtuellen Umgebungen. Das System erlaubt die Bearbeitung und Visualisierung dieser Netzwerke als 
                     <hi rend="italic">multimodale Hypertexte</hi> (Mehler et al. 2018) in der 
                     <hi rend="italic">virtuellen Realität</hi> (VR) und der 
                     <hi rend="italic">augmentierten Realität</hi> (AR). 
-                    <hi rend="bold">VAnnotatoR</hi> wurde mithilfe von Unity3D<hi rend="superscript">1</hi> für VR implementiert und unterstützt gängige Desktop-VR-Brillen<hi rend="superscript">2</hi> (HTC Vive und Oculus Rift). Die AR-Implementierung von 
-                    <hi rend="bold">VAnnotatoR</hi> für Smartphones basiert wiederum auf AR-Core<hi rend="superscript">3</hi>. Mittels 
-                    <hi rend="bold">VAnnotatoR</hi> sind Inhalte visualisierbar, suchbar, relationierbar, attribuierbar und weit darüber hinaus annotierbar. Die derzeitige Implementierung dieses Systems erlaubt die Modellierung von Netzwerken auf der Ebene so genannter Hypergraphen (Berge 1989) und hierarchischer Graphen, in denen Knoten vollständige Graphen enthalten können. Abbildung 1 illustriert ein solches Netzwerk unter anderem durch Rekurs auf Texte, Bilder, Photographien, dreidimenionale Modelle und ein begehbares Haus. Um eine natürliche Interaktion mit den Komponenten solcher Graphen zu ermöglichen, beinhaltet 
-                    <hi rend="bold">VAnnotatoR</hi> eine Gesten- und Bewegungssteuerung mit dazugehörigen VR-Controllern. Da klassische VR-Eingabegeräte die Gestaltungsfreiheit der Gestensteuerung limitieren, beinhaltet 
-                    <hi rend="bold">VAnnotatoR </hi>darüber hinaus eine Gestenerkennung unter Verwendung von Leap-Motion<hi rend="superscript">4</hi>. Gleichzeitig wurde eine Gestenerkennung basierend auf Datenhandschuhen<hi rend="superscript">5</hi> für den
-                    <hi rend="bold">VAnnotatoR</hi> entwickelt (Kühn 2018). Da komplexe Annotationsprozesse i.d.R. von mehreren Annotatoren durchgeführt werden müssen, ermöglicht 
-                    <hi rend="bold">VAnnotatoR</hi> zudem die simultane und kollaborative Bearbeitung von multimodalen Netzwerken. Die Annotationen werden in UIMA-Strukturen, unter Verwendung des 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> wurde mithilfe von Unity3D<hi rend="superscript">1</hi> für VR implementiert und unterstützt gängige Desktop-VR-Brillen<hi rend="superscript">2</hi> (HTC Vive und Oculus Rift). Die AR-Implementierung von 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> für Smartphones basiert wiederum auf AR-Core<hi rend="superscript">3</hi>. Mittels 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> sind Inhalte visualisierbar, suchbar, relationierbar, attribuierbar und weit darüber hinaus annotierbar. Die derzeitige Implementierung dieses Systems erlaubt die Modellierung von Netzwerken auf der Ebene so genannter Hypergraphen (Berge 1989) und hierarchischer Graphen, in denen Knoten vollständige Graphen enthalten können. Abbildung 1 illustriert ein solches Netzwerk unter anderem durch Rekurs auf Texte, Bilder, Photographien, dreidimenionale Modelle und ein begehbares Haus. Um eine natürliche Interaktion mit den Komponenten solcher Graphen zu ermöglichen, beinhaltet 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> eine Gesten- und Bewegungssteuerung mit dazugehörigen VR-Controllern. Da klassische VR-Eingabegeräte die Gestaltungsfreiheit der Gestensteuerung limitieren, beinhaltet 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs> </hi>darüber hinaus eine Gestenerkennung unter Verwendung von Leap-Motion<hi rend="superscript">4</hi>. Gleichzeitig wurde eine Gestenerkennung basierend auf Datenhandschuhen<hi rend="superscript">5</hi> für den
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> entwickelt (Kühn 2018). Da komplexe Annotationsprozesse i.d.R. von mehreren Annotatoren durchgeführt werden müssen, ermöglicht 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> zudem die simultane und kollaborative Bearbeitung von multimodalen Netzwerken. Die Annotationen werden in UIMA-Strukturen, unter Verwendung des 
                     <hi rend="italic">UIMA-Database Inferface</hi> (Abrami, Mehler 2018), abgespeichert und nutzbar gemacht.
                 </p>
                 <p>Mit 
-                    <hi rend="bold">VAnnotatoR</hi> ist ein Annotationswerkzeug entstanden, welches die Bearbeitung und Visualisierung komplexer Netzwerke gestengesteuert ermöglicht. Der Beitrag demonstriert dies am Beispiel einer 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> ist ein Annotationswerkzeug entstanden, welches die Bearbeitung und Visualisierung komplexer Netzwerke gestengesteuert ermöglicht. Der Beitrag demonstriert dies am Beispiel einer 
                     <hi rend="italic">Public History of the Holocaust</hi>, in welcher, basierend auf dem Konzept der 
                     <hi rend="italic">Stolperwege</hi> (Mehler et al. 2017), 
-                    <hi rend="bold">VAnnotatoR</hi> dazu genutzt wird, dreidimensionale Modelle nicht mehr existierender bzw. unzugänglicher Gebäude begehbar zu machen und zu dokumentieren. Auf diese Weise entsteht ein begehbarer und erweiterbarer Informationsraum, der insbesondere dazu dient, historische Prozesse zu dokumentieren. 
-                    <hi rend="bold">VAnnotatoR</hi> ist daher als ein Werkzeug zu betrachten, das verschiedene geisteswissenschaftliche Disziplinen verbindet. Inwiefern 
-                    <hi rend="bold">VAnnotatoR</hi> daher als interdisziplinäres Werkzeug der digitalen Geisteswissenschaften aufzufassen ist, soll Diskussionsgegenstand der Präsentation dieses Systems sein.
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> dazu genutzt wird, dreidimensionale Modelle nicht mehr existierender bzw. unzugänglicher Gebäude begehbar zu machen und zu dokumentieren. Auf diese Weise entsteht ein begehbarer und erweiterbarer Informationsraum, der insbesondere dazu dient, historische Prozesse zu dokumentieren. 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> ist daher als ein Werkzeug zu betrachten, das verschiedene geisteswissenschaftliche Disziplinen verbindet. Inwiefern 
+                    <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> daher als interdisziplinäres Werkzeug der digitalen Geisteswissenschaften aufzufassen ist, soll Diskussionsgegenstand der Präsentation dieses Systems sein.
                 </p>
                 <p>
                     <figure>
@@ -159,20 +159,20 @@
                         <hi rend="italic">Stolperwege: An App for a digital public history of the holocaust</hi> in: 
                         Proceedings of the 28th ACM Conference on Hypertext and Social Media. Pages 319–320. New York, NY, USA. ACM.
                     </bibl>
-                    <bibl>
+                    <bibl><rs key="VAnnotatoR" ana="#Bib.Ref #Agent">
                         <hi rend="bold">Mehler, Alexander / Abrami, Giuseppe / Spiekermann, Christian / Jostock, Matthias (2018):</hi> 
                         <hi rend="italic">VAnnotatoR: A framework for generating multimodal hypertexts</hi>, in: 
                         Proceedings of the 29th ACM Conference on Hypertext and Social Media. New York, NY, USA. ACM.
-                    </bibl>
+                    </rs></bibl>
                     <bibl>
                         <hi rend="bold">Nassar, Huda / Gleich, David F. (2017):</hi> 
                         <hi rend="italic">Multimodal network alignment</hi> in: CoRR, abs/1703.10511.
                     </bibl>
-                    <bibl>
+                    <bibl><rs key="VAnnotatoR" ana="#Bib.Ref #Agent">
                         <hi rend="bold">Spiekermann, Christian / Abrami, Giuseppe / Mehler, Alexander (2018):</hi> 
                         <hi rend="italic">VAnnotatoR: a gesture-driven annotation framework for linguistic and multimodal annotation</hi>,
                         in: Proceedings of the Annotation, Recognition and Evaluation of Actions (AREA) Workshop. Japan.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>
