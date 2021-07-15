@@ -174,7 +174,7 @@
                     <bibl style="text-align:left; ">
                         <hi rend="bold">Prell, Martin (2018)</hi>: <hi rend="italic">„»ps: ich bitt noch mahl umb ver gebung meines confusen und üblen schreibens wegen« – Frühneuzeitliche Briefe als Herausforderung automatisierter Handschriftenerkennung“</hi>. Online: https://doi.org/10.22032/dbt.34849.
                     </bibl>
-                    <bibl style="text-align:left; "><rs key="Transkribus" ana="#Bib.Ref #URL">
+                    <bibl style="text-align:left; "><rs key="Transkribus" ana="#Bib.Ref">
                         <hi rend="bold">READ (2018)</hi>: <hi rend="italic">„Tutorials and How To Guides“</hi>. Online: https://read.transkribus.eu/transkribus/.
                     </rs></bibl>
                 </listBibl>
