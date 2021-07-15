@@ -90,7 +90,7 @@
                 <head>Abstract</head>
                 <p>Die Verarbeitung, Erzeugung und Visualisierung von multimodalen Netzwerken, in denen etwa symbolische und ikonographische Inhalte miteinander vernetzt werden, um sie multimodal rezipierbar zu machen, bilden neuartige Herausforderungen für die digitalen Geisteswissenschaften, da sie weit über textbasierte Medien hinausreichen. Digitalisate von Schrifttexten, Bildern und Illustrationen können in diesem Zusammenhang als Beispiele für knotenbildende Informationsobjekte ebenso genannt werden wie dreidimensionale Objektrepräsentationen. Die Anordnung dieser Objekte zu 
                     <hi rend="italic">semiotischen Netzwerken</hi> hat den Zweck, deren Zusammenhangsstruktur zu visualisieren und rezipierbar zu machen. Der Begriff des Netzwerks erlaubt es dabei, Mikrostrukturen auf der Ebene von Knotenpaaren oder -triaden ebenso zu unterscheiden, wie Mesostrukturen von so genannten Netzwerkmotiven oder gar Makrostrukturen, welche die Gesamtorganisation des jeweiligen Informationsraums thematisieren (etwa im Sinne einer Zentrums-Peripherie-Struktur). Multimodale Netzwerke waren bereits Gegenstand einer Reihe von Projekten (siehe z.B. Li et al. 2007; Kane, Alavi 2008; Nasser, Gleich 2017). Allerdings befindet sich darunter kein Projekt, das eine generische Plattform zur Visualisierung und Annotation solcher Netzwerke im Rahmen virtueller Umgebungen zur Verfügung stellt. Um diese Lücke zu schließen, haben wir 
-                    <rs key="VAnnotatoR" ana="#Bib.Ref #Agent"><hi rend="bold">VAnnotatoR</hi> (Spiekermann, Abrami, Mehler 2018)</rs>
+                    <rs key="VAnnotatoR" ana="#Bib.Ref"><hi rend="bold">VAnnotatoR</hi> (Spiekermann, Abrami, Mehler 2018)</rs>
                     <hi rend="bold"> </hi>entwickelt. 
                     <hi rend="bold"><rs key="VAnnotatoR">VAnnotatoR</rs></hi> ist ein Framework zur Erstellung und Visualisierung multimodaler Netzwerke in virtuellen Umgebungen. Das System erlaubt die Bearbeitung und Visualisierung dieser Netzwerke als 
                     <hi rend="italic">multimodale Hypertexte</hi> (Mehler et al. 2018) in der 
@@ -159,7 +159,7 @@
                         <hi rend="italic">Stolperwege: An App for a digital public history of the holocaust</hi> in: 
                         Proceedings of the 28th ACM Conference on Hypertext and Social Media. Pages 319–320. New York, NY, USA. ACM.
                     </bibl>
-                    <bibl><rs key="VAnnotatoR" ana="#Bib.Ref #Agent">
+                    <bibl><rs key="VAnnotatoR" ana="#Bib.Ref">
                         <hi rend="bold">Mehler, Alexander / Abrami, Giuseppe / Spiekermann, Christian / Jostock, Matthias (2018):</hi> 
                         <hi rend="italic">VAnnotatoR: A framework for generating multimodal hypertexts</hi>, in: 
                         Proceedings of the 29th ACM Conference on Hypertext and Social Media. New York, NY, USA. ACM.
@@ -168,7 +168,7 @@
                         <hi rend="bold">Nassar, Huda / Gleich, David F. (2017):</hi> 
                         <hi rend="italic">Multimodal network alignment</hi> in: CoRR, abs/1703.10511.
                     </bibl>
-                    <bibl><rs key="VAnnotatoR" ana="#Bib.Ref #Agent">
+                    <bibl><rs key="VAnnotatoR" ana="#Bib.Ref">
                         <hi rend="bold">Spiekermann, Christian / Abrami, Giuseppe / Mehler, Alexander (2018):</hi> 
                         <hi rend="italic">VAnnotatoR: a gesture-driven annotation framework for linguistic and multimodal annotation</hi>,
                         in: Proceedings of the Annotation, Recognition and Evaluation of Actions (AREA) Workshop. Japan.

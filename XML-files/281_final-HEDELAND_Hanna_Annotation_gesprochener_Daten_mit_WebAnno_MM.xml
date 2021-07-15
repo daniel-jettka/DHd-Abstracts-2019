@@ -125,7 +125,7 @@
                     auf die Diskursannotation ist der bessere Überblick über größere Abschnitte des
                     Diskurses verglichen mit gängigen Werkzeugen, die in erster Linie für die
                     Transkription und Annotation auf Äußerungsebene entwickelt worden sind, wie z.B.
-                    der <rs key="EXMARaLDA" ana="#Bib.Ref #Agent">EXMARaLDA Partitur-Editor (Schmidt
+                    der <rs key="EXMARaLDA" ana="#Bib.Ref">EXMARaLDA Partitur-Editor (Schmidt
                         und Wörner, 2014)</rs> oder <rs key="ELAN" ana="#Bib.Ref">ELAN (Sloetjes,
                         2014)</rs>. Auch hinsichtlich der Struktur der Annotationen bietet <rs
                         key="WebAnno">WebAnno</rs> große Flexibilität, da neben einfacher

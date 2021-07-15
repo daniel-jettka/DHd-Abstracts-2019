@@ -175,7 +175,7 @@
                             <hi rend="underline color(0000FF)">https://doi.org/10.1093/llc/fqu027.</hi>
                         </ref>
                     </bibl>
-                    <bibl><rs key="CorrespSearch" ana="#Bib.Ref #Agent #PID">
+                    <bibl><rs key="CorrespSearch" ana="#Bib.Ref">
                         <hi rend="bold">Dumont, Stefan (2016):</hi> 
                         <hi rend="italic">CorrespSearch – Connecting Scholarly Editions of Letters</hi>,
                         Journal of the Text Encoding Initiative, Nr. Issue 10 (Dezember).
